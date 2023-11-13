@@ -59,4 +59,4 @@ As a customer, you can:
 
 # Deploy
 
-[FoodExplorerApp](URL)
+[FoodExplorerApp](https://foodexplorer32.netlify.app/)
