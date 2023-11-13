@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { toast } from 'react-toastify';
 import { Container, Form } from './styles';
 import { useAuth } from '../../hooks/auth';
-import Input from '../../components/input';
+import Input from '../../components/Input';
 import Button from '../../components/Button';
 import logoImg from '../../assets/logo.png';
 
