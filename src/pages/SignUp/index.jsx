@@ -3,7 +3,7 @@ import { useNavigate, Link } from 'react-router-dom';
 import { toast } from 'react-toastify';
 import { fetchWithErrorHandler } from '../../services/api';
 import { Container, Form } from './styles';
-import Input from '../../components/input';
+import Input from '../../components/Input';
 import Button from '../../components/Button';
 import logo from '../../assets/logo.png';
 
